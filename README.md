@@ -1,4 +1,4 @@
-# ARCHIVED PROJECT
+# Archived Project
 
 This is a previously completed academic project which is not currently supported.
 
